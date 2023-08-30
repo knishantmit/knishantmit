@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @knishantmit
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Statistics
+- 🌱 I’m currently learning MLOps
 - 💞️ I’m looking to collaborate on Machine Learning projects
 - 📫 How to reach me - kumar.nishant@live.in
 

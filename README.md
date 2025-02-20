@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @knishantmit
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Statistics
-- 🌱 I’m currently learning MLOps
-- 💞️ I’m looking to collaborate on Machine Learning projects
+- 🌱 I’m currently learning Deep Neural Networks
+- 🌱 I’m currently learning Generative AI
+- 💞️ I’m looking to collaborate on GenAI projects
 - 📫 How to reach me - kumar.nishant@live.in
 
 <!---
